@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-weight: 900;
+    font-size: 40px;
+}
+section{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+a{
+    text-decoration: none;
+}
+.link-button{
+    background-color: #FF5959;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+}
+.line-color{
+    color: orange;
+}
+.flexible{
+    display: flex;
+}
+.top-area-head{
+    border-left: 4px solid red;
+    padding-left: 10px;
+    font-family: 'Yeseva One', cursive;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 35px;
+}
+.half-width{
+    width: 40%;
+    margin-right: 50px;
+}
+.half-width img{
+    width: 100%;
+}
+.mission-area h1{
+    text-align: center;
+}
+.mission-focus{
+    padding-top: 100px;
+    width: 45%;
+}
+.element{
+    width: 28%;
+    padding: 20px;
+    border-radius: 20px;
+    margin-right: 15px;
+}
+.element img{
+    width: 50%;
+}
+.mission{
+    background-color: #EEF6F7;
+}
+.vission{
+    background-color: #FFEFEF;
+}
+.goals{
+    background-color: #FFF4D6;
+}
+.head{
+    line-height: 20px;
+}
+.develop-details{
+    padding-top: 30px;
+    width: 60%;
+}
+footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: black;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+    color: whitesmoke;
+}
+footer p{
+    color: #D9DBE1;
+}
+span{
+    color: skyblue;
+}
+.date{
+    color: red;
+}
